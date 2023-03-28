@@ -3,8 +3,8 @@ TP Integration Continue
 
 ```
 Pour utiliser l'application :
-    -./build.sh --help #Use this for help
-    -./build.sh -b #Build the app
-    -./build.sh -l #Launch the app
-    -./build.sh -bl #Build and launch the app
+    -./Build.sh --help #Use this for help
+    -./Build.sh -b #Build the app
+    -./Build.sh -l #Launch the app
+    -./Build.sh -bl #Build and launch the app
 ```
