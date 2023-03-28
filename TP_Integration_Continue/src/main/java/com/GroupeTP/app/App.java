@@ -10,4 +10,9 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+    public static HashMap calculer_retrait( Int[] valeur)
+    {
+        
+    }
 }
