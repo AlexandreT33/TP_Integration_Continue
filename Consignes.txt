@@ -1,0 +1,21 @@
+Cahier des charges
+ 
+Développez en Java / Maven un distributeur de billet en mode console
+
+
+	
+Prompt initial
+	
+Demande d'insérer la CB => en réalité, on sélectionne une carte numéroté de 1 à 3
+	
+Demande du code à 4 chiffres => chaque carte à un code associé (en dur dans le code)
+	
+Demande combien on retire => (finalement) prévoir un un solde de départ pour chaque carte (en dur dans le code)
+	
+Contrôler si solde OK / Maintenir à jour le solde de la CB
+	
+Demander le nombre de coupures pour chaque billet (En partant du plus haut possible : pour un retrait de 100, commencer par les billets de 100, puis 50 si possible, puis 20 si possible...)
+	
+Contrôle des chiffres saisis bien sûr
+	
+Procédure terminée => Retour au prompt initial
